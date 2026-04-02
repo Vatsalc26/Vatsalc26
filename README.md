@@ -1,6 +1,22 @@
 # Vatsal Chavda
 
-Founder-builder and research-minded systems designer building governance-first coding systems, bounded autonomy tooling, and long-horizon reasoning architectures.
+Founder-builder and research-minded systems designer building governance-first coding systems and long-horizon reasoning architectures.
+
+<p>
+  <a href="https://vdanto.com"><img src="https://img.shields.io/badge/Portfolio-vdanto.com-b46b36?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://github.com/Vatsalc26/queenshift-cli"><img src="https://img.shields.io/badge/Project-Queenshift-111111?style=for-the-badge" alt="Queenshift"></a>
+  <a href="https://orcid.org/0009-0005-8789-7301"><img src="https://img.shields.io/badge/ORCID-0009--0005--8789--7301-A6CE39?style=for-the-badge" alt="ORCID"></a>
+  <a href="https://x.com/choco_chips5"><img src="https://img.shields.io/badge/X-@choco__chips5-111111?style=for-the-badge" alt="X"></a>
+</p>
+
+Working on bounded autonomy, context fidelity, and architecture-led AI tooling with Queenshift and Balloon Architecture.
+
+## Focus
+
+- governance-first coding systems
+- bounded JS/TS execution and review surfaces
+- long-horizon reasoning and context fidelity
+- architecture notes, public software releases, and evidence-backed tooling
 
 ## Featured Work
 
@@ -25,7 +41,7 @@ Long-horizon reasoning and context-fidelity architecture exploring sequential ga
 - developing stronger implementation and evidence around governance-first coding systems
 - continuing the Balloon Architecture manuscript track beyond the published v1 note
 
-## Links
+## Connect
 
 - Portfolio: https://vdanto.com
 - ORCID: https://orcid.org/0009-0005-8789-7301
