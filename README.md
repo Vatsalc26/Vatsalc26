@@ -1,6 +1,6 @@
 # Vatsal Chavda
 
-Founder-builder and research-minded systems designer building governance-first coding systems and long-horizon reasoning architectures.
+> Founder-builder and research-minded systems designer building governance-first coding systems and long-horizon reasoning architectures.
 
 <p>
   <a href="https://vdanto.com"><img src="https://img.shields.io/badge/Portfolio-vdanto.com-b46b36?style=for-the-badge" alt="Portfolio"></a>
@@ -9,24 +9,25 @@ Founder-builder and research-minded systems designer building governance-first c
   <a href="https://x.com/choco_chips5"><img src="https://img.shields.io/badge/X-@choco__chips5-111111?style=for-the-badge" alt="X"></a>
 </p>
 
-Working on bounded autonomy, context fidelity, and architecture-led AI tooling with Queenshift and Balloon Architecture.
+Working at the intersection of computational trust, bounded autonomy, and architecture-led AI systems.
 
 ## Focus
 
 - governance-first coding systems
 - bounded JS/TS execution and review surfaces
 - long-horizon reasoning and context fidelity
-- architecture notes, public software releases, and evidence-backed tooling
+- public technical notes, software releases, and evidence-backed tooling
 
 ## Featured Work
 
 ### Queenshift
 
-Governance-first bounded coding CLI with a public architecture note, public software record, and experimental QueenBee specialist lane.
+Governance-first bounded coding CLI with a public architecture note, a public software record, and an experimental QueenBee specialist lane.
 
 - GitHub: https://github.com/Vatsalc26/queenshift-cli
 - Architecture note DOI: https://doi.org/10.5281/zenodo.19323465
 - Software DOI: https://doi.org/10.5281/zenodo.19374972
+- Wiki: https://github.com/Vatsalc26/queenshift-cli/wiki
 
 ### Balloon Architecture
 
@@ -34,18 +35,19 @@ Long-horizon reasoning and context-fidelity architecture exploring sequential ga
 
 - Published v1 DOI: https://doi.org/10.5281/zenodo.19230268
 - Zenodo record: https://zenodo.org/records/19230268
+- v2 manuscript: in progress
 
-## Current Focus
+## Current Direction
 
-- improving bounded JS/TS task quality and contributor experience in Queenshift
-- developing stronger implementation and evidence around governance-first coding systems
+- strengthening bounded JS/TS task quality and contributor experience in Queenshift
+- building stronger implementation and evidence around governance-first coding systems
 - continuing the Balloon Architecture manuscript track beyond the published v1 note
+- preparing a broader portfolio surface across systems, research, and future design work
 
 ## Connect
 
 - Portfolio: https://vdanto.com
-- ORCID: https://orcid.org/0009-0005-8789-7301
 - GitHub: https://github.com/Vatsalc26
+- ORCID: https://orcid.org/0009-0005-8789-7301
 - X: https://x.com/choco_chips5
-- Queenshift wiki: https://github.com/Vatsalc26/queenshift-cli/wiki
 
