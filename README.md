@@ -1,6 +1,6 @@
 # Vatsal Chavda
 
-Founder-builder and research-minded systems designer working on governance-first coding systems, bounded autonomy, and long-horizon reasoning architectures.
+Founder-builder and research-minded systems designer building governance-first coding systems, bounded autonomy tooling, and long-horizon reasoning architectures.
 
 ## Featured Work
 
@@ -27,7 +27,8 @@ Long-horizon reasoning and context-fidelity architecture exploring sequential ga
 
 ## Links
 
+- Portfolio: https://vdanto.com
 - ORCID: https://orcid.org/0009-0005-8789-7301
 - GitHub: https://github.com/Vatsalc26
+- X: https://x.com/choco_chips5
 - Queenshift wiki: https://github.com/Vatsalc26/queenshift-cli/wiki
-
