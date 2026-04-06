@@ -3,11 +3,11 @@
 > Founder-builder and research-minded systems designer building governance-first coding systems and long-horizon reasoning architectures.
 
 <p>
-  <a href="https://vdanto.com"><img src="https://img.shields.io/badge/Portfolio-vdanto.com-b46b36?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://github.com/Vatsalc26/queenshift-cli"><img src="https://img.shields.io/badge/Project-Queenshift-111111?style=for-the-badge" alt="Queenshift"></a>
-  <a href="https://github.com/Vatsalc26/Ballon-MCP-Server"><img src="https://img.shields.io/badge/Project-Balloon%20MCP-0f766e?style=for-the-badge" alt="Balloon MCP"></a>
-  <a href="https://orcid.org/0009-0005-8789-7301"><img src="https://img.shields.io/badge/ORCID-0009--0005--8789--7301-A6CE39?style=for-the-badge" alt="ORCID"></a>
-  <a href="https://x.com/choco_chips5"><img src="https://img.shields.io/badge/X-@choco__chips5-111111?style=for-the-badge" alt="X"></a>
+  <a href="https://vdanto.com"><img src="https://img.shields.io/badge/portfolio-vdanto.com-b46b36" alt="Portfolio"></a>
+  <a href="https://github.com/Vatsalc26/queenshift-cli"><img src="https://img.shields.io/badge/project-Queenshift-111111" alt="Queenshift"></a>
+  <a href="https://github.com/Vatsalc26/Ballon-MCP-Server"><img src="https://img.shields.io/badge/project-Balloon%20MCP-0f766e" alt="Balloon MCP"></a>
+  <a href="https://orcid.org/0009-0005-8789-7301"><img src="https://img.shields.io/badge/ORCID-0009--0005--8789--7301-A6CE39" alt="ORCID"></a>
+  <a href="https://x.com/choco_chips5"><img src="https://img.shields.io/badge/X-@choco__chips5-111111" alt="X"></a>
 </p>
 
 Working at the intersection of computational trust, bounded autonomy, and architecture-led AI systems.
