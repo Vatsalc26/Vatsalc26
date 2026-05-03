@@ -55,7 +55,6 @@ Long-horizon reasoning and context-fidelity architecture exploring sequential ga
 
 ## Connect
 
-- Portfolio: https://vdanto.com
 - GitHub: https://github.com/Vatsalc26
 - ORCID: https://orcid.org/0009-0005-8789-7301
 - X: https://x.com/choco_chips5
